@@ -1,0 +1,15 @@
+bubble_sort_v1
+real    0m4.049s
+user    0m4.052s
+sys     0m0.001s
+----------------
+bubble_sort_v2
+real    0m5.141s
+user    0m5.148s
+sys     0m0.000s
+----------------
+bubble_sort_v3
+real    0m3.165s
+user    0m3.167s
+sys     0m0.001s
+----------------
